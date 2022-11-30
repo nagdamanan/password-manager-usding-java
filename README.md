@@ -1,5 +1,6 @@
 # password-manager-usding-java
 simple password manager as mini project written in java and framework used javafx.
+
 DISCLAIMER: This is not a true password manager and has ZERO security features. Do NOT use it to store any passwords.
 ## Prerequisites
 Java, OOP, MVC architecture, and JavaFX, to list a few.
