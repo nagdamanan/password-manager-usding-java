@@ -6,6 +6,7 @@ DISCLAIMER: This is not a true password manager and has ZERO security features. 
 Java, OOP, MVC architecture, and JavaFX, to list a few.
 
 https://gluonhq.com/products/javafx/
+
 Download the javafx libraries from above provided link.
 Then add those libraries to classpath in project
 
