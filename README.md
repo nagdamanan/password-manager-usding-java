@@ -1,5 +1,8 @@
 # password-manager-using-java
 simple password manager as mini project written in java and framework used javafx.
+https://gluonhq.com/products/javafx/
+Download the javafx libraries from above provided link.
+Then add those libraries to classpath in project
 
 DISCLAIMER: This is not a true password manager and has ZERO security features. Do NOT use it to store any passwords.
 ## Prerequisites
