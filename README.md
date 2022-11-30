@@ -1,12 +1,14 @@
 # password-manager-using-java
 simple password manager as mini project written in java and framework used javafx.
-https://gluonhq.com/products/javafx/
-Download the javafx libraries from above provided link.
-Then add those libraries to classpath in project
 
 DISCLAIMER: This is not a true password manager and has ZERO security features. Do NOT use it to store any passwords.
 ## Prerequisites
 Java, OOP, MVC architecture, and JavaFX, to list a few.
+
+https://gluonhq.com/products/javafx/
+Download the javafx libraries from above provided link.
+Then add those libraries to classpath in project
+
 ## How this project works
 This project uses the MVC software design pattern. The FXML files are the views, which are controlled by separate controller classes. There is one main model that stores all the user and account information. The "database" is simulated with .txt files, which the model reads when a user logs in or writes to when new users or internet accounts are added.
 ### Login window
