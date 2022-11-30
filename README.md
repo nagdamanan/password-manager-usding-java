@@ -9,7 +9,7 @@ This project uses the MVC software design pattern. The FXML files are the views,
 ### Login window
 When you launch the application, you will first see the login window. You can type your username and password to login, or register a new user.
 <p align="center">
-<img src="https://github.com/nagdamanan/password-manager-usding-java/blob/main/PM/password%20manager/scrnshts/Login%20Window.png?raw=true" width=50%>
+<img src="https://github.com/nagdamanan/password-manager-usding-java/blob/main/PM/password%20manager/scrnshts/Login%20Window.png?raw=true" width=10%>
 </p>
 
 ### Register window
