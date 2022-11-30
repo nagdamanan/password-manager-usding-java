@@ -1,4 +1,4 @@
-# password-manager-usding-java
+# password-manager-using-java
 simple password manager as mini project written in java and framework used javafx.
 
 DISCLAIMER: This is not a true password manager and has ZERO security features. Do NOT use it to store any passwords.
