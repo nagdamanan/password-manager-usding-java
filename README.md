@@ -21,5 +21,5 @@ When you register a new user with a username that already exists, you will get a
 ### Main window
 After logging in, you will reach the main window where all the passwords are stored. You can click on the buttons to copy the username and passwords. Lots of work can be done here, so be creative!
 <p align="center">
-<img src="https://github.com/nagdamanan/password-manager-usding-java/blob/main/PM/password%20manager/scrnshts/Main%20Window.png?raw=true" width=25%>
+<img src="https://github.com/nagdamanan/password-manager-usding-java/blob/main/PM/password%20manager/scrnshts/Main%20Window.png?raw=true" width=50%>
 </p>
